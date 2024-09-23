@@ -1,0 +1,3 @@
+---
+providerRegex: ^(ctrl-01|ctrl-02|ctrl-03)$
+bypassDnsResolution: true
